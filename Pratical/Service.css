@@ -1,0 +1,17 @@
+body {
+    width: 100%;
+    background: url(igor-sporynin-yvR9V-RAz7E-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: orange;
+    margin: 0;
+    padding: 0;
+}
+
+u {
+    text-align: center;
+}

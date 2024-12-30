@@ -1,0 +1,27 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+    width: 100%;
+    background: url(colin-watts-HXOgKJucTAw-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: orange;
+    padding: 0;
+    margin: o;
+}
+img {
+    width: 500px;
+    height: 300px;
+}
+
+ol {
+    color: white;
+    font-weight: bold;
+}

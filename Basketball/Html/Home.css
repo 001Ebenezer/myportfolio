@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    background: url(download\ \(4\).jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+}
+
+p {
+    font-size: 17px;
+}
+
+.Image div{
+    display: flex;
+    width: 33%;
+    float: left;
+}
+
+img {
+    width: 100%;
+    overflow: auto;
+}
+
+.link a{
+    position: absolute;
+    top: 100%;
+    left: 40%;
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid black;
+    color: blue;
+    background-color: white;
+}
+
+.link a:hover {
+    color: orange;
+}
